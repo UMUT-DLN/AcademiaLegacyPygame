@@ -1,2 +1,5 @@
 # AcademiaLegacyPygame
 用Pygame来制作的简单二维滑雪游戏
+需要的环境是python，库是pygame、pymysql
+这个需要你在电脑上先安装号mysql,然后修改一下dataManagement.py里的用户信息，然后运行dataManagement.py会创建一个数据库表，包含用户名，密码，游戏记录
+运行landingPage.py可以注册登录后可以进行游戏
