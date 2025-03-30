@@ -1,0 +1,2 @@
+# AcademiaLegacyPygame
+用Pygame来制作的简单二维滑雪游戏
